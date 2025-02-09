@@ -1,0 +1,3 @@
+Assume you have two independent case-control datasets, e.g. males and females, that have been genotyped for M1 and M2 variants (SNPs), respectively. You select a subset of these, N1 and N2, as being particularly promising, for example, because they are significant or because they show odds ratios exceeding 10 each. Upon combining N1
+ and N2 into a single dataset (spreadsheet), you find that N12 of these variants are common between the two groups. How likely is this occurring just by chance, or can you conclude that group 2 represents a significant replication for group 1 by virtue of these N12 common variants?
+ See Replic2.pdf.
