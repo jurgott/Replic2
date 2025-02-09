@@ -1,0 +1,11 @@
+1000 1000   Two large sample sizes
+100 100     Two sets of SNPs selected from the large sample sizes
+100000      Number of replicates for p-value calculation
+3           Number of SNPs common to the two groups...
+5           ... repeat as often as desired
+8
+10
+20
+30
+50
+-1          Finish with "-1" or just end the input

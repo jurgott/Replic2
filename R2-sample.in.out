@@ -1,0 +1,12 @@
+1000 1000  Two overall numbers of SNPs
+100 100  Two numbers of best SNPs
+100000  Random replicates
+
+matches p-value
+3 0.99869001
+5 0.98084019
+8 0.80705193
+10 0.55387446
+20 0.00102999
+30 0.00001000
+50 0.00001000
